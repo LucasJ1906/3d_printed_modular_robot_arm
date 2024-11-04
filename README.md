@@ -7,6 +7,9 @@
 ![Picture2](https://github.com/user-attachments/assets/96e07148-48d6-4140-9b6c-073e77c9c336)
 ![Picture5](https://github.com/user-attachments/assets/c4a22e53-2074-4df3-8e2e-838535b02979)
 
+# Electronic design : 
+Based on [ESP 32 and Janus Controller](https://github.com/byDagor/Janus-Controller) Board and [SimpleFoc Library](https://github.com/byDagor/Janus-Controller)  
+AS5600 encoder 
 
 # Sofware  
 Programming interface : ![Picture3](https://github.com/user-attachments/assets/779cf3c2-9384-48fb-a5dd-693f03d5a53c)
